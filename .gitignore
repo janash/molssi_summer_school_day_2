@@ -1,2 +1,5 @@
 # jupyter notebook checkpoints
 .ipynb_checkpoints
+
+# text editor temporary files
+*~
